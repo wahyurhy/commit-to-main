@@ -1,0 +1,5 @@
+# Ignore the batch script
+run_git_operations.bat
+
+# Ignore the Python script
+git_operations.py
